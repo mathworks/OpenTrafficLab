@@ -1,5 +1,7 @@
 # OpenTrafficLab
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4354100.svg)](https://doi.org/10.5281/zenodo.4354100)
+
 ![](./Testing/T-Junction-with-lights-trimmed.gif)
 
 OpenTrafficLab is a MATLAB&reg; environment capable of simulating simple traffic scenarios with vehicles and junction controllers. The simulator provides models for human drivers and traffic lights, but is designed so that users can specify their own control logic both for vehicles and traffic signals. The purpose of the simulator is test multi-agent autonomous vehicle control algorithms and intelligent traffic control algorithms.
