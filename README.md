@@ -21,7 +21,7 @@ To get started, users can go through [OpenTrafficLabIntroductoryExample.mlx]() f
 
 
 ## Architecture
-OpenTrafficLab is built using an Object Oriented Programming (OOP) architecture. Concepts of OOP, and OOP in MATLAB can be reviewed [here](https://www.mathworks.com/discovery/object-oriented-programming.html). The structure of the simulator makes use existing classes of the Driving Scenario Designer App, like drivingScenario, Vehicle, and Actor. Crucially, three classes that need to be understood are added:
+OpenTrafficLab is built using an Object Oriented Programming (OOP) architecture. Concepts of OOP, and OOP in MATLAB can be reviewed [here](https://www.mathworks.com/products/matlab/object-oriented-programming.html?s_tid=srchtitle_object%20oriented%20programming_1). The structure of the simulator makes use existing classes of the Driving Scenario Designer App, like drivingScenario, Vehicle, and Actor. Crucially, three classes that need to be understood are added:
 
 * A [Node]() class that is used for three main purposes:
     1. To represent the network as a directed graph of connected lanes and turns that vehicles can use to specify their routes through the network.
